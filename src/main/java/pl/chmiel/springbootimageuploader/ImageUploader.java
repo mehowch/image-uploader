@@ -30,7 +30,7 @@ public class ImageUploader {
             // todo
         }
 
-        return "";
+        return uploadResult.get("url").toString();
 
     }
 
