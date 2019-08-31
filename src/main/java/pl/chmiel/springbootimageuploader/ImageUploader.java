@@ -41,8 +41,4 @@ public class ImageUploader {
 
     }
 
-    public static void main(String[] args) throws IOException {
-
-
-    }
 }

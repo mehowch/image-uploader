@@ -26,4 +26,7 @@ public class GalleryGui extends VerticalLayout {
         } );
     }
 
+//    cloudinary.api().resources(ObjectUtils.asMap("prefix", "test/folder/", "type", "upload"));
+
+
 }
