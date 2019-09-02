@@ -23,10 +23,6 @@ public class GalleryGui extends VerticalLayout {
             com.vaadin.flow.component.html.Image image =
                     new com.vaadin.flow.component.html.Image(element.getImageAddress(), "brak");
             add(image);
-        } );
+        });
     }
-
-//    cloudinary.api().resources(ObjectUtils.asMap("prefix", "test/folder/", "type", "upload"));
-
-
 }

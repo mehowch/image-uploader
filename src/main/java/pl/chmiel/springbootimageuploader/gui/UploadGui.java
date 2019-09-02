@@ -35,13 +35,10 @@ public class UploadGui extends VerticalLayout {
             label.setText("Image uploaded");
             add(label);
             add(image);
-
-
         });
 
         add(textField);
         add(button);
-//
 
 
 //        MemoryBuffer buffer = new MemoryBuffer();
@@ -54,7 +51,6 @@ public class UploadGui extends VerticalLayout {
 //            label.setText("Image uploaded");
 //            add(label);
 //            add(image);
-
 
 
 //            Component component = imageUploader(event.getMIMEType(),
